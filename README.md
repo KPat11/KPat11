@@ -19,7 +19,7 @@
 
 ### 👨‍💻 About Me
 
-- **🔭 I’m currently working on a Cybersecurity Project that Predicts Threats**
+- **🔭 What I have currently worked on: AutoFinGPT, Hot Dog/Not Hot Dog, Discord Bot, Building a Search Engine, Data Work with Bestselling Books**
 - **🌱 I’m learning Scaling Techniques for AI/ML Systems**
 - **💬 Ask me about AI, ML, and viable Use Cases**
 - **📫 How to reach me: ken.balvant.patel@gmail.com**
@@ -76,9 +76,3 @@
 
 - 💼 [Portfolio Website]([https://www.kenpatel.me/])
 - 📝 [Resume]([https://www.kenpatel.me/contact])
-
----
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername" alt="Visitors"/>
-</p>
