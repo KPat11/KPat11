@@ -23,7 +23,7 @@
 - **🌱 I’m learning Scaling Techniques for AI/ML Systems**
 - **💬 Ask me about AI, ML, and viable Use Cases**
 - **📫 How to reach me: ken.balvant.patel@gmail.com**
-- **⚡ I love to travel 🧭, die hard Eagles fan 🦅, code from a small mountain town 🏔️, bad but enthusiastic golfer 🏌️, love building AI/ML hobby projects to learn and grow**
+- **⚡ I love to travel -- Sports: die hard Eagles fan, bad but enthusiastic golfer, cricket, basketball, trying squash for the first time -- Code from a small mountain town but will be relocating to North Carolina -- Enjoy building AI/ML hobby projects to learn and grow**
 
 ---
 
