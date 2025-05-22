@@ -7,7 +7,7 @@
 <h1 align="center"  width="1000" >Hi there, I'm Ken 👋</h1>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/kpat11]">
+  <a href="https://www.linkedin.com/in/kpat11">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"  width="85" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:ken.balvant.patel@gmail.com">
