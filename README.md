@@ -19,11 +19,11 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **A Cybersecurity Project that Predicts Threats**
-- 🌱 I’m learning **Scaling Techniques for AI/ML Systems**
-- 💬 Ask me about **AI, ML, and viable Use Cases**
-- 📫 How to reach me: **ken.balvant.patel@gmail.com**
-- ⚡ Fun fact: **I love to travel 🧭, die hard Eagles fan 🦅, code from a small mountain town 🏔️, bad but enthusiastic golfer 🏌️, love building AI/ML hobby projects to learn and grow 👨🏽‍💻**
+- **🔭 I’m currently working on a Cybersecurity Project that Predicts Threats**
+- **🌱 I’m learning Scaling Techniques for AI/ML Systems**
+- **💬 Ask me about AI, ML, and viable Use Cases**
+- **📫 How to reach me: ken.balvant.patel@gmail.com**
+- **⚡ I love to travel 🧭, die hard Eagles fan 🦅, code from a small mountain town 🏔️, bad but enthusiastic golfer 🏌️, love building AI/ML hobby projects to learn and grow**
 
 ---
 
