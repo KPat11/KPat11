@@ -20,12 +20,12 @@
 ### 👨‍💻 About Me
 
 - **🔭 Recent Work: AutoFinGPT, Hot Dog Detection, Discord Bot, Building a Search Engine, Data Work with Bestselling Books**
-- **🌱 I’m learning Scaling Techniques for AI/ML Systems**
+- **🌱 I’m learning some new model monitoring tools**
 - **💬 Ask me about AI, ML, and viable Use Cases**
 - **📫 How to reach me: ken.balvant.patel@gmail.com**
-- **⚡ Enjoy building AI/ML hobby projects to learn and grow**
+- **⚡ Enjoy building AI/ML hobby projects to learn something new**
 - **🏕️ Sports: die hard Eagles fan, bad but enthusiastic golfer, cricket, basketball, trying squash for the first time**
-- **🏡 Code from a small mountain town but will be relocating to North Carolina in the near future**
+- **🏡 Code from a small mountain town but looking to move to the Bay area to meet like minded individuals**
 
 ---
 
