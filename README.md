@@ -19,7 +19,7 @@
 
 ### 👨‍💻 About Me
 
-- **🔭 Recent Work: AutoFinGPT, Hot Dog Detection, Discord Bot, Building a Search Engine, Data Work with Bestselling Books**
+- **🔭 Recent Work: Building a mini GPT, AutoFin, Hot Dog Detection, Building a Search Engine, Data Work with Bestselling Books**
 - **🌱 I’m learning some new model monitoring tools**
 - **💬 Ask me about AI, ML, and viable Use Cases**
 - **📫 How to reach me: ken.balvant.patel@gmail.com**
