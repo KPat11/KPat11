@@ -19,12 +19,12 @@
 
 ### 👨‍💻 About Me
 
-- **🔭 Recent Work: Building a mini GPT, AutoFin, Hot Dog Detection, Building a Search Engine, Data Work with Bestselling Books**
-- **🌱 I’m learning some new model monitoring tools**
-- **💬 Ask me about AI, ML, and viable Use Cases**
+- **🔭 Recent Work: Sports betting tracker for friends, Building a mini GPT, AutoFin, Quant Finance Data Work**
+- **🌱 I’m learning tradeoffs of various production deployment tools**
+- **💬 Ask me about AI, ML, or anything Tech**
 - **📫 How to reach me: ken.balvant.patel@gmail.com**
 - **⚡ Enjoy building AI/ML hobby projects to learn something new**
-- **🏕️ Sports: die hard Eagles fan, bad but enthusiastic golfer, cricket, basketball, trying squash for the first time**
+- **🏕️ Sports: Eagles fan, bad but enthusiastic golfer, cricket**
 - **🏡 Code from a small mountain town but looking to move to the Bay area to meet like minded individuals**
 
 ---
@@ -71,10 +71,3 @@
     <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
----
-
-### 🧰 Tools & Resources
-
-- 💼 [Portfolio Website]([https://www.kenpatel.me/])
-- 📝 [Resume]([https://www.kenpatel.me/contact])
