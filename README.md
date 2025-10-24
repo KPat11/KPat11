@@ -18,13 +18,13 @@
 ---
 
 ### 👨‍💻 About Me
+**‼️ DISCLAIMER: most of my work experience were done at past companies in which I cannot share those codebases, I will iteraively add various projects to display my production grade knowledge in AI/ML development as well as random hobby projects. I ultimately am seeking not to spend money on any of these projects as I am not planning (as of now) to make money off them. So if you notice things in my projects where linking to a various API or using x, y, z cloud services would have been a better option just FYI most likely because of cost or rate limiting issues it was not implemented. If you find a better way of going about some projects feel free to reach out! Always seeking new perspectives and grow as an engineer**
 
-- **🔭 Recent Work: Sports betting tracker for friends, Building a mini GPT, AutoFin, Quant Finance Data Work**
-- **🌱 I’m learning tradeoffs of various production deployment tools**
+- **🔭 Recent Work: Sports betting tracker for friends, Production Grade YT Comment Sentiment ML Pipeline
+- **🌱 I’m learning about Samsung AI model using recursive modeling that ran successfully with greatly less parameters compared to foundational models.
 - **💬 Ask me about AI, ML, or anything Tech**
 - **📫 How to reach me: ken.balvant.patel@gmail.com**
 - **⚡ Enjoy building AI/ML hobby projects to learn something new**
-- **🏕️ Sports: Eagles fan, bad but enthusiastic golfer, cricket**
 - **🏡 Code from a small mountain town but looking to move to the Bay area to meet like minded individuals**
 
 ---
