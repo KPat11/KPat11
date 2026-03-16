@@ -25,7 +25,6 @@
 - **💬 Ask me about AI, ML, or anything Tech**
 - **📫 How to reach me: ken.balvant.patel@gmail.com**
 - **⚡ Enjoy building AI/ML hobby projects to learn something new**
-- **🏡 Code from a small mountain town but looking to move to the Bay area to meet like minded individuals**
 
 ---
 
