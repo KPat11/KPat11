@@ -18,10 +18,14 @@
 ---
 
 ### 👨‍💻 About Me
-**‼️ DISCLAIMER: most of my work experience were done at past companies in which I cannot share those codebases, I will iteraively add various projects to display my production grade knowledge in AI/ML development as well as random hobby projects. I ultimately am seeking not to spend money on any of these projects as I am not planning (as of now) to make money off them. So if you notice things in my projects where linking to a various API or using x, y, z cloud services would have been a better option just FYI most likely because of cost or rate limiting issues it was not implemented. If you find a better way of going about some projects feel free to reach out! Always seeking new perspectives and grow as an engineer**
+**⚠️ A Note on My Public Work
+Most of my professional experience comes from private codebases I'm unable to share — but I'm actively building this portfolio to showcase my production-grade thinking in AI/ML development, alongside a few passion projects along the way.
+You'll notice some intentional architectural choices here: I've favored self-hosted models, local inference, and open-source tooling over third-party APIs and managed cloud services. That's a deliberate constraint I've set for myself — shipping real solutions with minimal overhead. In my experience, engineers who can work creatively within tight resource boundaries tend to build leaner, more thoughtful systems overall.
+If you see a spot where a different approach might scale better or solve something more elegantly — I'd genuinely love to hear it. I'm always looking to sharpen my thinking and learn from other perspectives.
+📬 Feel free to reach out!**
 
-- **🔭 Recent Work: Sports betting tracker for friends, Production Grade YT Comment Sentiment ML Pipeline
-- **🌱 I’m learning about Samsung AI model using recursive modeling that ran successfully with greatly less parameters compared to foundational models.
+- **🔭 Recent Work: Sports betting tracker for friends, Production Grade YT Comment Sentiment ML Pipeline**
+- **🌱 I’m learning about Samsung AI model using recursive modeling that ran successfully with greatly less parameters compared to foundational models.**
 - **💬 Ask me about AI, ML, or anything Tech**
 - **📫 How to reach me: ken.balvant.patel@gmail.com**
 - **⚡ Enjoy building AI/ML hobby projects to learn something new**
