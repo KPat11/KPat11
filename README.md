@@ -19,12 +19,15 @@
 
 ### 👨‍💻 About Me
 **⚠️ A Note on My Public Work
-Most of my professional experience comes from private codebases I'm unable to share — but I'm actively building this portfolio to showcase my production-grade thinking in AI/ML development, alongside a few passion projects along the way.
-You'll notice some intentional architectural choices here: I've favored self-hosted models, local inference, and open-source tooling over third-party APIs and managed cloud services. That's a deliberate constraint I've set for myself — shipping real solutions with minimal overhead. In my experience, engineers who can work creatively within tight resource boundaries tend to build leaner, more thoughtful systems overall.
-If you see a spot where a different approach might scale better or solve something more elegantly — I'd genuinely love to hear it. I'm always looking to sharpen my thinking and learn from other perspectives.
-📬 Feel free to reach out!**
+Most of my professional experience comes from private codebases I'm unable to share — but I'm actively building this portfolio to showcase my production-grade thinking in AI/ML development, alongside a few passion projects along the way.**
 
-- **🔭 Recent Work: Sports betting tracker for friends, Production Grade YT Comment Sentiment ML Pipeline**
+**You'll notice some intentional architectural choices here: I've favored self-hosted models, local inference, and open-source tooling over third-party APIs and managed cloud services. That's a deliberate constraint I've set for myself — shipping real solutions with minimal overhead. In my experience, engineers who can work creatively within tight resource boundaries tend to build leaner, more thoughtful systems overall.**
+
+**If you see a spot where a different approach might scale better or solve something more elegantly — I'd genuinely love to hear it. I'm always looking to sharpen my thinking and learn from other perspectives.**
+
+**📬 Feel free to reach out!**
+
+- **🔭 Recent Work: YT Comment Sentiment ML Pipeline, Proposal Gift For Fiance: Scrapbook Website, Golf App using CV and Agents, Statistical Arbitrage Quant Project**
 - **🌱 I’m learning about Samsung AI model using recursive modeling that ran successfully with greatly less parameters compared to foundational models.**
 - **💬 Ask me about AI, ML, or anything Tech**
 - **📫 How to reach me: ken.balvant.patel@gmail.com**
