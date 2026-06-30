@@ -18,8 +18,8 @@
 ---
 
 ### 👨‍💻 About Me
-**⚠️ A Note on My Public Work
-** I have recently changed visibility on my public work because I am actively enhancing public projects to showcase cloud managed services with scale, low latency, reliabiliity, and security in mind.**
+**⚠️ A Note on My Public Work**
+**I have recently changed visibility on my public work because I am actively enhancing public projects to showcase cloud managed services with scale, low latency, reliabiliity, and security in mind.**
 
 **Most of my professional experience comes from private codebases I'm unable to share — but I'm actively building this portfolio to showcase my production-grade thinking in AI/ML development, alongside a few passion projects along the way.**
 
