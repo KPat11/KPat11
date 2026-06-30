@@ -29,7 +29,7 @@
 
 **📬 Feel free to reach out!**
 
-- **🔭 Recent Work: YT Comment Sentiment ML Pipeline, RAG x Agentic Financial Assistant, Proposal Gift For Fiance: Scrapbook Website, Golf App using CV and Agents, Statistical Arbitrage Quant Project, Propety Management System**
+- **🔭 Recent Work: YT Comment Sentiment ML Pipeline, RAG x Agentic Financial Assistant, Proposal Gift For Fiance: Scrapbook Website, Golf App using CV and Agents, Statistical Arbitrage Quant Project, Property Management System**
 - **🌱 I’m learning about Samsung AI model using recursive modeling that ran successfully with greatly less parameters compared to foundational models.**
 - **💬 Ask me about AI, ML, or anything Tech**
 - **📫 How to reach me: ken.balvant.patel@gmail.com**
