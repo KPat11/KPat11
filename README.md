@@ -19,13 +19,13 @@
 
 ### 👨‍💻 About Me
 **⚠️ A Note on My Public Work
-Most of my professional experience comes from private codebases I'm unable to share — but I'm actively building this portfolio to showcase my production-grade thinking in AI/ML development, alongside a few passion projects along the way.**
+** I have recently changed visibility on my public work because I am actively enhancing public projects to showcase cloud managed services with scale, low latency, reliabiliity, and security in mind.**
 
-**You'll notice some intentional architectural choices here: I've favored self-hosted models, local inference, and open-source tooling over third-party APIs and managed cloud services. That's a deliberate constraint I've set for myself — shipping real solutions with minimal overhead. In my experience, engineers who can work creatively within tight resource boundaries tend to build leaner, more thoughtful systems overall.**
+**Most of my professional experience comes from private codebases I'm unable to share — but I'm actively building this portfolio to showcase my production-grade thinking in AI/ML development, alongside a few passion projects along the way.**
 
-**Actively enhancing public projects to showcase cloud managed services with scale, low latency, reliabiliity, and security in mind.**
+**Below is my previous approach to architectural choices, but I am now actively altering to represent my strong skillset in cloud managed services.**
 
-**If you see a spot where a different approach might scale better or solve something more elegantly — I'd genuinely love to hear it. I'm always looking to sharpen my thinking and learn from other perspectives.**
+**[Previous approach] I've favored self-hosted models, local inference, and open-source tooling over third-party APIs and managed cloud services. That's a deliberate constraint I've set for myself — shipping real solutions with minimal overhead. Keeping things open-source.**
 
 **📬 Feel free to reach out!**
 
