@@ -23,6 +23,8 @@ Most of my professional experience comes from private codebases I'm unable to sh
 
 **You'll notice some intentional architectural choices here: I've favored self-hosted models, local inference, and open-source tooling over third-party APIs and managed cloud services. That's a deliberate constraint I've set for myself — shipping real solutions with minimal overhead. In my experience, engineers who can work creatively within tight resource boundaries tend to build leaner, more thoughtful systems overall.**
 
+**Actively enhancing public projects to showcase cloud managed services with scale, low latency, reliabiliity, and security in mind.**
+
 **If you see a spot where a different approach might scale better or solve something more elegantly — I'd genuinely love to hear it. I'm always looking to sharpen my thinking and learn from other perspectives.**
 
 **📬 Feel free to reach out!**
